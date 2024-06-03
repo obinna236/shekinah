@@ -119,6 +119,11 @@
         transition: 900ms all ease;
     }
 
+    header .logo{
+        font-size: 22px;
+    }
+        
+
 }
 
 /* our header media query ends */
